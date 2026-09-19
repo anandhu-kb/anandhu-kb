@@ -144,25 +144,52 @@ Exploring security tooling, vulnerable applications, system internals, and pract
 
 ---
 
-## GitHub Activity
+## What I'm Building
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=anandhu-kb&show_icons=true&hide_border=true&bg_color=0D1117&title_color=36F1A1&icon_color=58D9FF&text_color=C9D1D9" height="165" alt="GitHub statistics">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandhu-kb&layout=compact&hide_border=true&bg_color=0D1117&title_color=36F1A1&text_color=C9D1D9" height="165" alt="Top languages">
+<table>
+<tr>
+<td width="33%" align="center">
+
+### ⚙️ SYSTEMS
+
+Building software that goes beyond simple CRUD —  
+concurrency, persistence, system monitoring, local-first architecture, and tooling.
+
+</td>
+
+<td width="33%" align="center">
+
+### 🔐 SECURITY
+
+Learning by breaking things in controlled environments —  
+enumeration, web security, exploitation, privilege escalation, and analysis.
+
+</td>
+
+<td width="33%" align="center">
+
+### 🧪 EXPERIMENTATION
+
+Turning ideas into working projects, testing them, breaking them, and improving the design based on what fails.
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-<div align="center">
+## Currently Exploring
 
-### `INTERESTED IN SECURITY? LET'S BUILD SOMETHING WORTH BREAKING.`
-
-<a href="https://anandhu-security-portfolio.vercel.app/">Portfolio</a>
-&nbsp;·&nbsp;
-<a href="https://github.com/anandhu-kb">GitHub</a>
-&nbsp;·&nbsp;
-<a href="https://github.com/anandhu-kb/CTF-Walkthroughs">CTF Write-ups</a>
-
-</div>
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│  SECURITY        Web Application Security · Pentesting       │
+│  SYSTEMS         Go · Linux · Concurrency · Architecture     │
+│  TOOLING         Security Automation · Developer Tools       │
+│  RESEARCH        Vulnerable Apps · System Internals          │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
