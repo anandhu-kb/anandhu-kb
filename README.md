@@ -1,16 +1,28 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**anandhu-kb/anandhu-kb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# `ANANDHU KB`
 
-Here are some ideas to get you started:
+### Cybersecurity Engineering • Software Development • Security Research
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub](https://img.shields.io/badge/GitHub-anandhu--kb-181717?style=flat-square&logo=github)](https://github.com/anandhu-kb)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-00A98F?style=flat-square)](https://anandhu-security-portfolio.vercel.app/)
+
+</div>
+
+---
+
+## `whoami`
+
+```text
+┌──────────────────────────────────────────────────────┐
+│ ANANDHU KB                                           │
+├──────────────────────────────────────────────────────┤
+│ Role        : Cybersecurity / Software Engineering  │
+│ Focus       : Security Engineering & Systems         │
+│                                                │
+│ Building    : Sentinel-OS                            │
+│ Practicing  : Hack The Box / TryHackMe              │
+│ Exploring   : Offensive Security & Security Tools   │
+│                                                │
+│ Primary     : Go • Python • JavaScript • SQL        │
+└──────────────────────────────────────────────────────┘
